@@ -214,52 +214,7 @@
 </br></br>
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Основные понятия о ИИ</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        h3 {
-            color: #666;
-        }
-        p {
-            margin-bottom: 20px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        table {
-            width: 100%;
-            margin: 20px 0;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        code {
-            font-family: monospace;
-            background-color: #f9f9f9;
-            padding: 5px;
-        }
-    </style>
-</head>
-<body>
+
 
 <h1>Основные понятия о ИИ</h1>
 
