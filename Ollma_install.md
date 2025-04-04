@@ -1,10 +1,5 @@
-Установка Ollma на Ubuntu 24.04.01
+# install_ollama.sh
 
-1. Создаем скрипт по установке
-<code>nano install_ollama.sh</code>
-
-1.1 Далее вставляем код
-<code>
 #!/bin/bash
 
 # Обновление пакетов
@@ -52,14 +47,21 @@ docker ps
 
 # Уведомление пользователя
 echo "Запуск завершён. Откройте браузер и перейдите по адресу: http://0.0.0.0:3000/"
-</code>
-<br/>)
-1.2 Далее Созраняем код<br/>)
-1.3 Сделайте файл исполнимым:<br/>)
-<code>chmod +x install_ollama.sh</code>
-<br/>)
-1.3 Запускаем скрипт<br/>)
-<code>./install_ollama.sh</code>
+```
 
+## Установка Ollama на Ubuntu 24.04.01
 
+### 1. Создание скрипта
+```bash
+nano install_ollama.sh
+```
+Скопируйте приведённый выше код в файл.
 
+### 2. Сделайте файл исполнимым
+```bash
+chmod +x install_ollama.sh
+```
+
+### 3. Запустите скрипт
+```bash
+./install_ollama.sh
