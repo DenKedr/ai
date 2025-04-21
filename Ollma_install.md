@@ -1,12 +1,5 @@
 Установка Ollma на Ubuntu 24.04.01
 
-1. Создаем скрипт по установке
-<code>nano install_ollama.sh</code>
-
-1.1 Далее вставляем код
-<code>
-#!/bin/bash
-
 # Обновление пакетов
 sudo apt update && sudo apt upgrade -y
 
